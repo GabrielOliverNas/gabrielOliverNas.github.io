@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <link rel="stylesheet" href="estilo.css">
+
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+<body>
+    <div id="DivGG">
+        <div id="Nome" class="textoCentralizado">
+            <h1>Gabriel de Oliveira do Nascimento</h1>
+        </div>
+        <div id="ParteEsquerda">
+            <div id="Habilidades" class="textoCentralizado">
+                <p><b>HABILIDADES</b></p>
+                <p><b>Linguagens intermediárias em programação</b></p>
+                <p>Java, C, Arduino</p>
+                <p><b>Linguagens de nivel básico</b></p>
+                <p>Html 5, CSS 3, PHP, C#</p>
+
+            </div>
+            
+            <div id="Formacao" class="textoCentralizado">
+
+            </div>
+        </div>
+        <div id="ParteDireita" class="textoCentralizado">
+            <div id="Objetivo">
+                <br>
+                <p><b>OBJETIVO</b></p>
+                <b>Ingressar em um estágio na área de desenvolvimento de sistemas, web/design ou IOT.</b>
+            </div>
+            <div id="Contatos" class="textoCentralizado">
+                <p><b>CONTATOS</b></p>
+                <p><b>E-mail</b></p>
+                <p>gabrielolivernas@gmail.com</p>
+                <p><b>Telefone</b></p>
+                <p>(41) 9 8888-xxxx</p>
+                <a target="_blanck" href="http://linkedin.com/in/gabriel-oliveira-8a3135164"><p><b>url Linkedln</b></p></a>
+           </div>
+            <div id="Referências" class="textoCentralizado">
+                <p><b>Referências</b></p>
+                <p><b>Márcio Gonçalves</b></p>
+                (41) 9 9921-xxxx
+                <p><b>Claudia Macanhã</b></p>
+                (41) 9 9935-xxxx
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
